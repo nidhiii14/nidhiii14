@@ -4,7 +4,8 @@
 
 **Computer Science Engineering Student** at Ballari Institute of Technology and Management, Ballari, Karnataka
 Passionate about real world solutions, Software development, Web development, Artificial Intelligence and User Experience Design
-**Currently strengthening my skills in:
+
+**Currently strengthening my skills in:**
 -  Data Structures & Algorithms
 -  AI & Data Analytics
 -  React and Js
@@ -51,9 +52,9 @@ Power BI dashboard for analyzing toll traffic.
 
 ## Education
 
-Bachelor of Engineering ( CSE )
-CGPA: 9.75
-Expected Graduation: 2028
+- Bachelor of Engineering ( CSE )
+- CGPA: 9.75
+- Expected Graduation: 2028
 
 ##  Connect with Me
 
