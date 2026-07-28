@@ -47,8 +47,14 @@ Power BI dashboard for analyzing toll traffic.
 ##  Certifications
 
 - DSA Deeptech Certification
-- Delloite Data Analytics
-- 
+- Delloite Data Analytics Certification
+
+## Education
+
+Bachelor of Engineering ( CSE )
+CGPA: 9.75
+Expected Graduation: 2028
+
 ##  Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/m-srinidhi-998b55330/
