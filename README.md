@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Srinidhi 
 
-<!--
-**nidhiii14/nidhiii14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+**Computer Science Engineering Student** at Ballari Institute of Technology and Management, Ballari, Karnataka
+Passionate about real world solutions, Software development, Web development, Artificial Intelligence and User Experience Design
+**Currently strengthening my skills in:
+-  Data Structures & Algorithms
+-  AI & Data Analytics
+-  React and Js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Technical Skills
+
+### Programming Languages
+- Java
+- Python
+- C
+- C++
+- SQL
+
+### Web Technologies
+- HTML
+- CSS
+- JavaScript
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Oracle Database
+- Power BI
+
+## Featured Projects
+
+### 🏥 BioFlowGuard
+Smart IoT-based Hospital Monitoring System.
+
+### 🗑️ IntelliBin
+Smart Waste Bin Monitoring System using Data Structures.
+
+### 🤖 AI Appointment Prioritizer
+Flask + Python project for patient appointment prioritization.
+
+### 📊 Toll Booth Waiting Time Analysis
+Power BI dashboard for analyzing toll traffic.
+
+##  Certifications
+
+- DSA Deeptech Certification
+- Delloite Data Analytics
+- 
+##  Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/m-srinidhi-998b55330/
+- Email: msrinidhi486@gmail.com
