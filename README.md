@@ -3,6 +3,7 @@
 ## About Me
 
 **Computer Science Engineering Student** at Ballari Institute of Technology and Management, Ballari, Karnataka
+
 Passionate about real world solutions, Software development, Web development, Artificial Intelligence and User Experience Design
 
 **Currently strengthening my skills in:**
