@@ -1,4 +1,4 @@
-# Hi, I'm Srinidhi 
+# Hi, I'm M Srinidhi 
 
 ## About Me
 
